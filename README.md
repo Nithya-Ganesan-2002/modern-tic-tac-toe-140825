@@ -1,1 +1,3 @@
-# modern-tic-tac-toe-140825
+# Project Repository
+
+This is the initial README file for the project.
